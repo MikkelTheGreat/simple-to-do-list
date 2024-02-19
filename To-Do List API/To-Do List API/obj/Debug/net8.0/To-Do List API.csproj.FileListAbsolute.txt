@@ -1,0 +1,34 @@
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\appsettings.json
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\To-Do List API.exe
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\To-Do List API.deps.json
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\To-Do List API.runtimeconfig.json
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\To-Do List API.dll
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\To-Do List API.pdb
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.AssemblyInfo.cs
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\staticwebassets\msbuild.To-Do List API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\staticwebassets\msbuild.build.To-Do List API.props
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.To-Do List API.props
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.To-Do List API.props
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\scopedcss\bundle\To-Do List API.styles.css
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.csproj.CopyComplete
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.dll
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\refint\To-Do List API.dll
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.pdb
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\To-Do List API.genruntimeconfig.cache
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\obj\Debug\net8.0\ref\To-Do List API.dll
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\Data\tasks.json
+C:\Users\mikke\source\repos\To-Do List API\To-Do List API\bin\Debug\net8.0\Newtonsoft.Json.dll
